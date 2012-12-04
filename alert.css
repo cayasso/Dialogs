@@ -1,0 +1,8 @@
+.alert {
+	width: 255px;
+}
+
+.alert button {
+	padding: 6px;
+	margin: 5px;
+}

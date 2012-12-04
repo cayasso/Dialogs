@@ -1,0 +1,21 @@
+.prompt {
+	width: 220px;
+}
+
+.prompt button {
+	padding: 6px;
+	margin: 5px;
+}
+
+.prompt .onyx-input-decorator { 
+	background-color: #FFF;
+}
+
+.prompt .enyo-fittable-columns-layout {
+	text-align: center;
+	margin: 5px;
+}
+
+.prompt label {
+	margin: 5px;
+}

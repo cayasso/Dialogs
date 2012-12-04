@@ -1,0 +1,10 @@
+enyo.depends(
+	"dialog.css",
+	"dialog.js",
+	"alert.css",
+	"alert.js",
+	"confirm.css",
+	"confirm.js",
+	"prompt.css",
+	"prompt.js"
+);

@@ -1,0 +1,23 @@
+.dialog {
+	width: 255px;
+	text-align: center;	
+}
+
+.dialog.onyx-popup {	
+	padding: 15px 10px;
+	font-weight: bold;
+}
+
+.dialog div {
+	margin: 0;
+	padding: 0;
+}
+
+.dialog .message {
+	margin: 0;
+	padding-bottom: 10px;
+}
+
+.dialog .enyo-fittable-columns-layout {
+	text-align: center;
+}
